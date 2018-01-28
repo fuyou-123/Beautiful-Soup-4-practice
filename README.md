@@ -1,2 +1,2 @@
-# Beautiful-Soup-4-practice
-Currently I'm working on the project to predict NCAA basketball tournament. I need the information of leagues for each team. But there are no available data file containing league information. So I used bs4 package in Python to extract leagues.
+# scrawl data from website
+There are some basic tools to extract data from website. Several examples are given by using 'Beautiful Soup' and 'selenium'. When there are buttons that need to click before extracting the data, 'selenium' is a good tool to deal with this problem.
